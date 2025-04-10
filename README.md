@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Skylar Eade. I am currently a Computer Science undergrad at Oregon State University with a concentration in Cybersecurity. 
 
 <!--
 **SkylarEade/SkylarEade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
