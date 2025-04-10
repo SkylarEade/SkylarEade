@@ -1,7 +1,22 @@
-## Hello! My name is Skylar Eade. I am currently a Computer Science undergrad at Oregon State University with a concentration in Cybersecurity. 
+<h1>Hi, I'm Skylar! </h1>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Malware Analysis</b>
+  - [Practical Malware Aanalysis Labs](https://github.com/SkylarEade/pma-analysis)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="SkylarEade | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/skylar-eade
 
 <!--
-**SkylarEade/SkylarEade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**skylareade/sklylareade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
