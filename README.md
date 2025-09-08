@@ -1,4 +1,9 @@
-<h1>Hi, I'm Skylar! </h1>
+<h1>Hi, I'm Skylar! I am currently working for ENTEK as an IT Security Endpoint Analyst. I have interest in Data Analysis/ Automation/ Cybersecurity </h1>
+
+<h2>📈 Data Analysis Projects:</h2>
+
+- <b>Data Analysis</b>
+  - [Entra Stale User API Pull](https://github.com/SkylarEade/pma-analysis)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
