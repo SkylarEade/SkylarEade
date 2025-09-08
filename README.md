@@ -4,7 +4,8 @@
 <h2>📈 Data Analysis Projects:</h2>
 
 - <b>Data Analysis</b>
-  - [Entra Stale User API Pull](https://github.com/SkylarEade/StaleEntraAccounts/tree/main)
+  - [Entra Stale User API Pull and Analysis](https://github.com/SkylarEade/StaleEntraAccounts/tree/main)
+  - [Phishing Sim Data Pull and Analysis](https://github.com/SkylarEade/PhishingSimData)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
