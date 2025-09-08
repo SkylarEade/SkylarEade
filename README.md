@@ -4,7 +4,7 @@
 <h2>📈 Data Analysis Projects:</h2>
 
 - <b>Data Analysis</b>
-  - [Entra Stale User API Pull](https://github.com/SkylarEade/pma-analysis)
+  - [Entra Stale User API Pull](https://github.com/SkylarEade/StaleEntraAccounts/tree/main)
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
