@@ -1,4 +1,5 @@
-<h1>Hi, I'm Skylar! I am currently working for ENTEK as an IT Security Endpoint Analyst. I have interest in Data Analysis/ Automation/ Cybersecurity </h1>
+<h1>Hi, I'm Skylar!</h1>
+<p> I am currently working for ENTEK as an IT Security Endpoint Analyst. I have interest in Data Analysis/ Automation/ Cybersecurity</p>
 
 <h2>📈 Data Analysis Projects:</h2>
 
