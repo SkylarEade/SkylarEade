@@ -3,7 +3,8 @@
 
 <h2>🤖 AI / Machine Learning Projects:</h2>
 - <b>Machine Learning Basics</b>
-  - Handwritten Number Analyzer(https://github.com/SkylarEade/AIBasics)
+  - [Handwritten Number Analyzer](https://github.com/SkylarEade/AIBasics)
+  
 <h2>📈 Data Analysis Projects:</h2>
 
 - <b>Data Analysis</b>
