@@ -1,6 +1,10 @@
 <h1>Hi, I'm Skylar!</h1>
 <p> I am currently working for ENTEK as an IT Security Endpoint Analyst. I have interest in Data Analysis/ Automation and Scripting/ Cybersecurity</p>
 
+<h2>🤖 AI / Machine Learning Projects:</h2>
+- <b>Machine Learning Basics</b>
+  - [Handwritten Number Analyzer](https://github.com/SkylarEade/AIBasics)
+
 <h2>📈 Data Analysis Projects:</h2>
 
 - <b>Data Analysis</b>
@@ -12,9 +16,6 @@
 - <b>Malware Analysis</b>
   - [Practical Malware Aanalysis Labs](https://github.com/SkylarEade/pma-analysis)
 
-<h2>🤖 AI / Machine Learning Projects:</h2>
-- <b>Machine Learning Basics</b>
-  - [Handwritten Number Analyzer](https://github.com/SkylarEade/AIBasics)
 
 <h2> 🤳 Connect with me:</h2>
 
